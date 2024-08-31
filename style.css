@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.form{
+    background-color: lavender;
+    margin-top: 100px;
+    margin-left: 400px;
+    position: relative;
+    width: 550px;
+    height: 180px;
+    justify-content: center;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    padding: 15px;
+}
+.input{
+    width: 50%;
+    height: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    border-radius: 5px;
+    padding: 10px 0;
+    outline: none;
+   
+}
+.btn{
+    display: block;
+    margin-top: 15px;
+}
+span{
+    margin-left: 20px;
+}
+hr{
+    margin: 5px;
+}
+p{
+    color: red;
+}
+
+
+
